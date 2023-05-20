@@ -1,2 +1,2 @@
-# free-lavalink
+# 📻 Free Lavalink Servers
 Free Lavalink Server
