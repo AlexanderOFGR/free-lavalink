@@ -3,7 +3,7 @@ Tired of searching for a working lavalink server for your Discord music bot? I h
 
 > 🌍 **German Lavalink Server**
 > 
-> **IP:** fsn.lavalink.alexanderof.xyz
+> **IP:** lavalink.alexanderof.xyz
 > 
 > **Port:** 2333
 > 
