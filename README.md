@@ -38,8 +38,8 @@ Tired of searching for a working lavalink server for your Discord music bot? I h
 Based on the budget I have available, I am trying to get the best possible hardware for my servers.
 
 > German Server
-CPU: 2 Cores
-RAM: 2GB
+CPU: 6 Cores
+RAM: 4GB
 NET: 1G
 
 > USA Server
